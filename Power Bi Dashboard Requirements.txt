@@ -1,0 +1,11 @@
+	Requirement for Power Bi Dashboard
+
+					KPI	
+
+	Segment wise Sales 
+
+	Shipmode wise Sales
+
+	SubCategory wise Sales
+
+	State wise Sales
